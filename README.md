@@ -1,0 +1,1 @@
+Repositorio para la practica del modulo "Despliegue de Algoritmos". Este repositorio contiene todos los archivos necesarios para completar la practica, asi como un notebook donde se explica el proceso seguido y el codigo usado. Las capturas de pantalla requeridas se encuentran en dos carpetas que identifican la procedencia de las imagenes (MLFlow y API).
